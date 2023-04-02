@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-destino.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -13,26 +13,26 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#Gastronomia .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-/* Contacto */
+/* Info */
 
-#Contacto form label {
+#Info form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #278080;
 }
 
 @media (max-width: 768px) {
-  #Contacto form label {
-    font-weight: 400;
+  #Info form label {
+    font-weight: 350;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
