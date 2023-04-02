@@ -24,7 +24,7 @@ body {
 
 #Info form label {
   font-weight: 500;
-  color: #2a7171;
+  color: hsl(199, 95%, 46%);
 }
 
 @media (max-width: 768px) {
