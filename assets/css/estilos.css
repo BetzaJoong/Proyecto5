@@ -14,7 +14,7 @@ body {
 /* Mis trabajos */
 
 #Gastronomia .image-top {
-  height: 250px;
+  height: 240px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -23,8 +23,8 @@ body {
 /* Info */
 
 #Info form label {
-  font-weight: 700;
-  color: #278080;
+  font-weight: 500;
+  color: #2a7171;
 }
 
 @media (max-width: 768px) {
